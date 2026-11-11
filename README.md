@@ -43,10 +43,10 @@ Currently based in **Valladolid, Spain**, and interested in **remote opportuniti
 
 | Project | What it demonstrates |
 |---|---|
-| [FastAPI Task Manager](https://github.com/fergodoii94/fastapi-task-manager) | REST API, Pydantic validation, SQLAlchemy 2.0, Alembic migrations, pagination, Docker and automated tests. |
+| [FastAPI Task Manager](https://github.com/fergodoii94/fastapi-task-manager) | Multi-user FastAPI REST API, JWT/Argon2 authentication, per-user task isolation, SQLAlchemy 2.0, Alembic migrations, Docker and automated tests. |
 | [E-commerce Backend API](https://github.com/fergodoii94/ecommerce-backend-api) | Backend prototype covering product/order flows, server-side totals, stock checks and API tests. |
 | [JWT Auth System](https://github.com/fergodoii94/jwt-auth-system) | A focused example of JWT creation and token validation. |
-| [WebSocket Chat App](https://github.com/fergodoii94/websocket-chat-app) | An asynchronous WebSocket echo-server project with message-size limits and tests. |
+| [WebSocket Echo Server](https://github.com/fergodoii94/websocket-chat-app) | An asynchronous WebSocket echo-server project with message-size limits and tests. |
 
 > These are portfolio and learning projects. Their READMEs describe the implemented scope and current limitations; they should not be assumed to be production services.
 
