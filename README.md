@@ -50,6 +50,12 @@ Currently based in **Valladolid, Spain**, and interested in **remote opportuniti
 
 > These are portfolio and learning projects. Their READMEs describe the implemented scope and current limitations; they should not be assumed to be production services.
 
+## Languages
+
+- Portuguese — native
+- Spanish — conversational
+- English — intermediate
+
 ## What I'm focusing on
 
 - Writing clear, typed and maintainable Python
